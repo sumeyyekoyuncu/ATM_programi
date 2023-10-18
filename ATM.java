@@ -7,8 +7,6 @@ public class ATM {
         Scanner scanner=new Scanner(System.in);
         System.out.println("kullanici girisi\n******************");
         int girishakki=3;
-           // girishakki--;   
-            //System.out.println("yanlis girdiniz.kalan giris hakkınız:"+girishakki);
             while (true) {
                 if(login.Login(hesap)){
                     System.out.println("giris basarili");
