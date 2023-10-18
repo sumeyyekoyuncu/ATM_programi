@@ -13,9 +13,6 @@ public class Logİn {
             return true;
         }
         else{
-           /* int girishakki=3;
-            girishakki--;   
-            System.out.println("yanlis girdiniz.kalan giris hakkınız:"+girishakki); */
            return false;
         }
         
